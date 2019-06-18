@@ -16,6 +16,10 @@ Style/FrozenStringLiteralComment:
   Exclude:
     - 'bin/*'
     - 'Gemfile'
+Style/StringLiterals:
+  Exclude:
+    - 'bin/*'
+    - 'Gemfile'
 Style/ExpandPathArguments:
   Exclude:
     - '*.gemspec'
