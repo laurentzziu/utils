@@ -23,3 +23,12 @@ Style/StringLiterals:
 Style/ExpandPathArguments:
   Exclude:
     - '*.gemspec'
+Layout/ExtraSpacing:
+  Exclude:
+    - '*.gemspec'
+Style/HashSyntax:
+  Exclude:
+    - 'Rakefile'
+Style/UnneededPercentQ:
+  Exclude:
+    - '*.gemspec'
