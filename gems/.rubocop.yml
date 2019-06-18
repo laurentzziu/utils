@@ -32,3 +32,6 @@ Style/HashSyntax:
 Style/UnneededPercentQ:
   Exclude:
     - '*.gemspec'
+Layout/SpaceAroundOperators:
+  Exclude:
+    - '*.gemspec'
